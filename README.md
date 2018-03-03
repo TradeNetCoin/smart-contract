@@ -1,1 +1,1 @@
-# smart-contract
+# example
